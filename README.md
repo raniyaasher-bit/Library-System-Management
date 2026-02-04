@@ -3,6 +3,12 @@
 ## Project Overview
 This project implements a simple Library Management System using SQL. It demonstrates creating tables, inserting sample data, and verifying outputs for members, books, and issued books.
 
+## Technologies Used
+-SQL (MYSQL / HeidiSQL)
+-Database design and modeling
+-CRUD operations (Create, Read, Update, Delete)
+-Data verification with SELECT queries
+
 ## Database Name
 `library_system`
 
@@ -37,4 +43,5 @@ After running verification queries, the tables will show:
 - 3 issued books linking members and books
 
 ## Author
+
 Raniya Asher
