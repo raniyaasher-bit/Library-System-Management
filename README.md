@@ -9,6 +9,17 @@ This project implements a simple Library Management System using SQL. It demonst
 -CRUD operations (Create, Read, Update, Delete)
 -Data verification with SELECT queries
 
+## Project Structure
+
+Library-System-Management---P2
+- Books_data.sql
+- Create_issued_books_table.sql
+- insert_books.sql
+- insert_members.sql
+- Populate_issued_books.sql
+- verify_all_data.sql
+- README.md
+
 ## Clone the Repository
 
 You can clone this peoject to your local machine using the following command:
@@ -51,4 +62,5 @@ After running verification queries, the tables will show:
 ## Author
 
 Raniya Asher
+
 
