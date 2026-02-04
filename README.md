@@ -4,21 +4,22 @@
 This project implements a simple Library Management System using SQL. It demonstrates creating tables, inserting sample data, and verifying outputs for members, books, and issued books.
 
 ## Technologies Used
--SQL (MYSQL / HeidiSQL)
--Database design and modeling
--CRUD operations (Create, Read, Update, Delete)
--Data verification with SELECT queries
+1.SQL (MYSQL / HeidiSQL)
+2.Database design and modeling
+3.CRUD operations (Create, Read, Update, Delete)
+4.Data verification with SELECT queries
 
 ## Project Structure
 
-Library-System-Management---P2
-- Books_data.sql
-- Create_issued_books_table.sql
-- insert_books.sql
-- insert_members.sql
-- Populate_issued_books.sql
-- verify_all_data.sql
-- README.md
+This is my Library Management System project. Here’s what each file does:
+
+- `Books_data.sql` – I used this to create the Books table with all its details.
+- `Create_issued_books_table.sql` – I created the Issued Books table with this file.
+- `insert_books.sql` – I inserted some sample books into the Books table to test the system.
+- `insert_members.sql` – This file adds sample members to the Members table.
+- `Populate_issued_books.sql` – I added sample issued books data with this.
+- `verify_all_data.sql` – I run this to check all tables together and make sure everything works.
+- `README.md` – I wrote this file to explain the project.
 
 ## Clone the Repository
 
@@ -70,6 +71,7 @@ After running verification queries, the tables will show:
 ## Author
 
 Raniya Asher
+
 
 
 
