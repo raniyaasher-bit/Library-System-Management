@@ -53,6 +53,14 @@ git clone https://github.com/raniyaasher-bit/Library-System-Management.git
    - `Populate_issued_books.sql`  
 4. Run `verify_all_data.sql` to see the output of all tables.
 
+## Features
+
+This project allows me to create and manage a Books table that stores book details like title, author, category, rental price, and publisher.  
+It also lets me manage a Members table with member names, addresses, and registration dates.  
+I created an Issued Books table to keep track of which books are issued to which members.  
+I inserted sample data into all tables to test the database and verify the output.  
+This project demonstrates simple SQL operations such as creating tables, inserting data, and reading results.
+
 ## Output
 After running verification queries, the tables will show:  
 - 3 members  
@@ -62,5 +70,6 @@ After running verification queries, the tables will show:
 ## Author
 
 Raniya Asher
+
 
 
