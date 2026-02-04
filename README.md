@@ -62,6 +62,20 @@ I created an Issued Books table to keep track of which books are issued to which
 I inserted sample data into all tables to test the database and verify the output.  
 This project demonstrates simple SQL operations such as creating tables, inserting data, and reading results.
 
+## Challenges
+
+- At first, I ran the SQL files in the wrong order and got errors with the foreign keys.  
+  → I fixed it by running `Books_data.sql` first, then the others in the correct order.  
+
+- Some of the sample data I added got duplicated, which made verification messy.  
+  → I cleaned up the duplicates so all the tables showed correctly.  
+
+- I wasn’t sure how to see all the tables together in the Results Grid.  
+  → I figured out that running `verify_all_data.sql` would show everything at once.  
+
+- Making sure Books, Members, and Issued Books were linked properly was a bit tricky.  
+  → I checked the foreign keys and table structure carefully to fix it.
+
 ## Output
 After running verification queries, the tables will show:  
 - 3 members  
@@ -71,6 +85,7 @@ After running verification queries, the tables will show:
 ## Author
 
 Raniya Asher 
+
 
 
 
