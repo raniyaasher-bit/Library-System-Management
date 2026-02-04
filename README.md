@@ -9,6 +9,12 @@ This project implements a simple Library Management System using SQL. It demonst
 -CRUD operations (Create, Read, Update, Delete)
 -Data verification with SELECT queries
 
+## Clone the Repository
+
+You can clone this peoject to your local machine using the following command:
+```bash
+git clone https://github.com/raniyaasher-bit/Library-System-Management.git
+
 ## Database Name
 `library_system`
 
@@ -45,3 +51,4 @@ After running verification queries, the tables will show:
 ## Author
 
 Raniya Asher
+
